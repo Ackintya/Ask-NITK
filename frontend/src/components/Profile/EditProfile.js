@@ -21,6 +21,7 @@ function EditProfile (props){
     const userLoggedin = useSelector(state=>state.userLoggedin)
     const { userInfo1 } = userLoggedin
     const userProfile = useSelector(state => state.userProfile)
+    console.log(userProfile)
     const { Profile } = userProfile
     
     

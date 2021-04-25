@@ -69,7 +69,7 @@ function AccountCreated(props){
             <div className="details-box">
                 <div className="inside-details">
                     
-                    <p className="inside-color">Hi {userInfo1.username.split(" ")[0]}, your account has been created.Complete your profile</p>
+                    <p className="inside-color">Hi {userInfo1.username.split(" ")[0]}, your account has been created successfully. Please, Complete your profile</p>
                     <div className="inside-second">
                         <div className="add-image">
                         <div>
