@@ -1,7 +1,7 @@
 # Ask NiTK
 
-Hey curious mind,
-This is an app in which is intended to be a replica of Quora,stackoverflow and gumtree to out best efforts using React, Redux, Node JS, Express Js, MongoDb, REST Api and little bit of AWS
+Hey Fellow NITKians,
+This is an app in which is intended to be a replica of Quora,stackoverflow and gumtree to out best efforts using React, Redux, Node JS, Express Js, MongoDb, REST Api and little bit of AWS. [Visit Website](https://asknitk.herokuapp.com/) to try out 
 
 
 ## Features :
@@ -28,7 +28,3 @@ under separate sections in the profile page
 - Madhur Tatiya : 191IT227
 
 Thank you for visiting and have a prosperous day ahead...
-
-
-
-
