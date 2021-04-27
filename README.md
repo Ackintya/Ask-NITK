@@ -1,7 +1,7 @@
 # Ask NiTK
 
 Hey Fellow NITKians,
-This is an app in which is intended to be a replica of Quora,stackoverflow and gumtree to out best efforts using React, Redux, Node JS, Express Js, MongoDb, REST Api and little bit of AWS. [Visit Website](https://asknitk.herokuapp.com/) to try out 
+This is an app in which is intended to be a replica of Quora,stackoverflow and gumtree to out best efforts using React, Redux, Node JS, Express Js, MongoDb, REST Api and little bit of AWS. [Visit Website](https://asknitk.herokuapp.com/) to try out.
 
 
 ## Features :
@@ -13,8 +13,8 @@ This is an app in which is intended to be a replica of Quora,stackoverflow and g
     - recent activites, 
     - questions that they have asked,
     - answers  that they have replied,
-    - their followers 
-    - users who are following them
+    - their followers,
+    - users who are following them.
 under separate sections in the profile page 
 - Users can comment and like as well as dislike the answers of other users
 - Users can follow and unfollow other users as per their preferences
