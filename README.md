@@ -1,16 +1,16 @@
 # Ask NiTK
 
 Hey Fellow NITKians,
-This is an app in which is intended to be a replica of Quora,stackoverflow and gumtree to out best efforts using React, Redux, Node JS, Express Js, MongoDb, REST Api and little bit of AWS. [Visit Website](https://asknitk.herokuapp.com/) to try out.
+This is an app in which is intended to be a replica of Quora, stackoverflow and gumtree to our best efforts using React, Redux, Node JS, Express Js, MongoDb, REST Api and little bit of AWS. [Visit Website](https://asknitk.herokuapp.com/) to try out.
 
 
 ## Features :
 - JSONwebtoken based login and registration system
 - A respective user can ask questions, write answer to other questions asked by other users and edit as well as delete the questions and answers posted by them
-- WYSIWYG rich text-editor is used for writing asnwers to the questions
+- WYSIWYG rich text-editor is used for writing answers to the questions
 - Users can view their own profile page as well as profile page of other users
 - Users can view their
-    - recent activites,
+    - recent activities,
     - questions that they have asked,
     - answers  that they have replied,
     - their followers,
